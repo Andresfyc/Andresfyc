@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/andresfyc/">
   <img align="left" alt="Andresfyc Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
-<br>
+
 
 
 
