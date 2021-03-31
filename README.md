@@ -8,7 +8,7 @@
 [![GitHub Andresfyc](https://img.shields.io/github/followers/Andresfyc?label=follow&style=social)](https://github.com/Andresfyc)
 
 
-### <img src="https://media.giphy.com/media/3qnghbCikdTFaGaJKp/giphy.gif" width="80"> A little more about me...  
+### <img src="https://media.giphy.com/media/MBTl5FKAmwwoBwTQjk/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
 const andresfyc = {
