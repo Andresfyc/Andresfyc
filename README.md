@@ -18,7 +18,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/Y0y2legbWJQLiqWlrb/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/Y0y2legbWJQLiqWlrb/giphy.gif" width="70"> A little more about me...  
 
 ```javascript
 const andresfyc = {
