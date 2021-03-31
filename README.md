@@ -1,4 +1,3 @@
-### Hi there 👋  
 
 <h2> Hi, I'm Andres Yunda! <img src="https://media.giphy.com/media/MBTl5FKAmwwoBwTQjk/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/4LyuXYeyaApotBuTfZ/giphy.gif" width="230">
