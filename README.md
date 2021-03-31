@@ -18,10 +18,17 @@ const andresfyc = {
 }
 ```
 
+***
 
+##  &#x1f4c8; GitHub Stats
 
----
+<a href="https://github.com/Andresfyc/Andresfyc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresfyc&layout=compact&show_icons=true&theme=tokyonight" alt="Andresfyc GitHub Stats" />
+</a>
 
+<a href="https://github.com/Andresfyc/Andresfyc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andresfyc&show_icons=true&theme=tokyonight" alt="Andresfyc GitHub Stats" />
+</a>
 
 <!--
 **Andresfyc/Andresfyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
