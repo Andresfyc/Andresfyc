@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Andres Yunda! <img src="https://media.giphy.com/media/MBTl5FKAmwwoBwTQjk/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/4LyuXYeyaApotBuTfZ/giphy.gif" width="230">
-<p><em>Computer Engineering student at <a href="https://www.ucm.es">University Complutense of Madrid </a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40">
+<p><em>Computer Engineering student at <a href="https://www.ucm.es">University Complutense of Madrid  </a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 
 [![Twitter: andresfyc](https://img.shields.io/twitter/follow/andresfyc?style=social)](https://twitter.com/andresfyc)
 [![Linkedin: andresfyc](https://img.shields.io/badge/-andresfyc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresfyc/)](https://www.linkedin.com/in/andresfyc/)
