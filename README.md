@@ -7,12 +7,13 @@
 [![GitHub Andresfyc](https://img.shields.io/github/followers/Andresfyc?label=follow&style=social)](https://github.com/Andresfyc)
 ![GitHub Andresfyc](https://visitor-badge.glitch.me/badge?page_id=Andresfyc.Andresfyc)
 
+
 <a href="https://twitter.com/andresfyc">
   <img align="left" alt="Andresfyc | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/andresfyc/">
   <img align="left" alt="Andresfyc Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
 
 
 
