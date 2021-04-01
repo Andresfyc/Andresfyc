@@ -15,7 +15,7 @@
 </a> <br>
 
 
-
+[![Spotify](https://andresfyc.vercel.app/api/spotify)](https://open.spotify.com/user/6kn4UR82Q7JygRO6W66kLT?si=iKNmmAf2RlSaWjV4A0hNHg)
 
 
 ### <img src="https://media.giphy.com/media/Y0y2legbWJQLiqWlrb/giphy.gif" width="70"> A little more about me...  
