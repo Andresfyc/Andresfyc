@@ -14,7 +14,7 @@
   <img align="left" alt="Andresfyc Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-[<img src="https://andresfyc.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/andresfyc?si=rtY71hdQSmKoSkO2w29Bcg)
+[<img src="https://andresfyc.vercel.app/api/spotify" alt="Andresfyc Spotify Playing" width="350" />](https://open.spotify.com/playlist/6kn4UR82Q7JygRO6W66kLT?si=MdCuwvWxTeKjUGw97T7nNQ)
 
 
 
