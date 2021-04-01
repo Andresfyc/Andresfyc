@@ -14,9 +14,7 @@
   <img align="left" alt="Andresfyc Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-### Spotify Playing 🎧
 
-[<img src="https://spotify-now-ruby.vercel.app/api/spotify-playing" alt="Andresfyc Spotify Playing" width="350" />](https://open.spotify.com/playlist/6kn4UR82Q7JygRO6W66kLT?si=MdCuwvWxTeKjUGw97T7nNQ)
 
 
 
