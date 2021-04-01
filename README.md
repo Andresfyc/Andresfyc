@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-delta.vercel.app/api/spotify" alt="Andresfyc Spotify Playing" width="350" />](https://open.spotify.com/playlist/6kn4UR82Q7JygRO6W66kLT?si=MdCuwvWxTeKjUGw97T7nNQ)
+[<img src="https://spotify-now-ruby.vercel.app/api/spotify" alt="Andresfyc Spotify Playing" width="350" />](https://open.spotify.com/playlist/6kn4UR82Q7JygRO6W66kLT?si=MdCuwvWxTeKjUGw97T7nNQ)
 
 
 
