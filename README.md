@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Andres Yunda! <img src="https://media.giphy.com/media/MBTl5FKAmwwoBwTQjk/giphy.gif" width="100"></h2>
-<img align='right' src="https://media.giphy.com/media/4LyuXYeyaApotBuTfZ/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/62907237/115966331-631eb400-a52d-11eb-981e-f0a91599a0a0.gif" width="230">
 <p><em>Computer Engineering student at <a href="https://www.ucm.es">University Complutense of Madrid  </a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 
 
