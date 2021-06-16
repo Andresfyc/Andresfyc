@@ -41,14 +41,11 @@ const andresfyc = {
 <img src="https://user-images.githubusercontent.com/62907237/118057275-ea708200-b38b-11eb-9869-4a44f0051645.png" alt="GitHub" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/62907237/118057454-55ba5400-b38c-11eb-8b16-69cff10cfa34.png" alt="Terminal" width="40" height="40" />
 
-
-
-
-
-##  &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Andresfyc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresfyc&layout=compact&show_icons=true&theme=tokyonight" alt="Andresfyc GitHub Stats" />
+  
+##  &#x1f4c8; GitHub Stats 
+  
+<a href="https://github.com/Andresfyc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresfyc&layout=compact&theme=tokyonight" alt="Andresfyc GitHub Stats" />
 </a>
 
 <a href="https://github.com/Andresfyc">
