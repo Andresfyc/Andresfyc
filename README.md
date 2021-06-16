@@ -45,7 +45,7 @@ const andresfyc = {
 ##  &#x1f4c8; GitHub Stats 
   
 <a href="https://github.com/Andresfyc/github-readme-stats">
-  <img align="center" src=""  alt="Andresfyc GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresfyc&layout=compact&theme=tokyonight"  alt="Andresfyc GitHub Stats" />
 </a>
   
 <a href="https://github.com/Andresfyc">
